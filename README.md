@@ -1,4 +1,4 @@
-~Cookbook~
+COOKBOOK
 
 This is a cookbook created with JavaScript, React, Java and Spring.
 
